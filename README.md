@@ -20,8 +20,21 @@ Get a [30-day FREE trial license](https://www.dynamsoft.com/customer/license/tri
 
 Run samples:
 - `python normal.py`
+   
+    ![](https://www.dynamsoft.com/codepool/img/2021/09/qr-color-image-recognition.png)
+   
 - `python inverted-color.py`
+
+    
+    ![](https://www.dynamsoft.com/codepool/img/2021/09/inverted-qr-speed.jpg)
+
 - `python perspective-distortion.py`
+    
+    ![](https://www.dynamsoft.com/codepool/img/2021/09/qr-perspective-template-decoding.jpg)
+
+
+
+
 
 ## Custom Parameters
 Visit the [online tool](https://demo.dynamsoft.com/barcode-reader/) to tune parameters for your image set. 
