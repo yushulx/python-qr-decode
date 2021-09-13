@@ -38,3 +38,6 @@ Run samples:
 
 ## Custom Parameters
 Visit the [online tool](https://demo.dynamsoft.com/barcode-reader/) to tune parameters for your image set. 
+
+## Blog
+[How to Optimize QR Recognition Performance by Image Preprocessing and Parameter Tuning](https://www.dynamsoft.com/codepool/optimize-qr-recognition-performance.html)
